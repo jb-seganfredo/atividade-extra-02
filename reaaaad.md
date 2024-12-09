@@ -1,17 +1,3 @@
-8 - Verifique a estação do ano
-
-Escreva um programa que leia um número de 1 a 4 e use uma estrutura switch para imprimir a estação do ano correspondente. (1 =
-Primavera, 2 = Verão, 3 = Outono, 4 = Inverno)
-
-Exercícios combinados
-9 - Verifique a faixa etária de uma pessoa
-Escreva um programa que leia a idade de uma pessoa e use uma estrutura if/else para determinar a faixa etária:
-            Criança: 0 - 12 anos
-            Adolescente: 13 - 17 anos
-            Adulto: 18 - 59 anos
-            Idoso: 60 anos ou mais
-
-Dica: Utilize uma estrutura switch além bloco if/else para imprimir uma mensagem específica para cada faixa etária.
 
 10 - Calcule o IMC e determine a categoria
 
