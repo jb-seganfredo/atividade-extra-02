@@ -1,16 +1,3 @@
-Exercícios com switch
-
-6 - Verifique o dia da semana
-Escreva um programa que leia um número de 1 a 7 e use uma estrutura switch para imprimir o dia da semana correspondente. (1 =
-Domingo, 2 = Segunda-feira, etc.)
-
-7 - Calcule o valor de uma expressão matemática simples
-
-Escreva um programa que leia dois números e um operador (+, -, *, /) e use uma estrutura switch para calcular o resultado da operação.
-Imprima o resultado.
-
-Dica: Utilize os operadores aritméticos em cada caso do switch.
-
 8 - Verifique a estação do ano
 
 Escreva um programa que leia um número de 1 a 4 e use uma estrutura switch para imprimir a estação do ano correspondente. (1 =

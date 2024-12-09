@@ -1,3 +1,5 @@
+// 5 - Verifique a categoria de um nadador
+
 function verificarCategoria(idade) {
     if (idade >= 5 && idade <= 7) {
         console.log("Categoria: Infantil A.");
